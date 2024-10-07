@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 i like pink
 i like cats
+=======
+My name is Jasmine
+I like pink
+>>>>>>> practice
